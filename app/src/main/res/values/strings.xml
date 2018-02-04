@@ -1,0 +1,66 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">The Music Quiz</string>
+    <string name="scoreMessage">You got: <xliff:g example="3" id="score">%d</xliff:g></string>
+<!--questions-->
+    <string name="quotes">Complete the quote:</string>
+    <string name="SongsNames">What is the name of this song?</string>
+    <string name="Written">Which songs are written by this artist?</string>
+    <string name="WhoArtist">Who is this artist?</string>
+
+    <string name="ShowCorrect">See correct answers!</string>
+    <string name="AnswerHere">Write your answer here</string>
+
+
+    <!--This is the strings for the correct answers
+         Q=Question + number of Question + C=Correct (+no. if more than 1 correct) + Type= C = Checkbox R = RadioButton E= EditText-->
+    <!--Question 1-->
+    <string name="Q1C1C">Sorry </string>
+    <string name="Q1C2C">Baby </string>
+    <!--Question 2-->
+    <string name="Q2C1R">I must have called a thousand times  </string>
+    <!--Question 4-->
+    <string name="Q4C1C">Bon Appetit </string>
+    <string name="Q4C2C">Chained To The Rhythm</string>
+    <!--Question 5-->
+    <string name="Q5C1R">Don\'t pick up the phone</string>
+    <!--Question 7-->
+    <string name="Q7C1C">Don\'t </string>
+    <string name="Q7C2C">Perfect </string>
+    <string name="Q7C3C">Galway Girl </string>
+    <!--Question 8-->
+    <string name="Q8C1R">You don\'t want my heart </string>
+    <!--Question 10-->
+    <string name="Q10C1R">Taylor Swift  </string>
+
+
+
+    <!--This is the strings for the incorrect answers
+     Q=Question + number of Question + W=Wrong +number + Type= C = Checkbox R = RadioButton E= EditText -->
+    <!--Question 1-->
+    <string name="Q1W1C">Can\'t stop the feeling</string>
+    <string name="Q1W2C">Girlfriend</string>
+    <!--Question 2-->
+    <string name="Q2W1R">I just called to say goodbye</string>
+    <string name="Q2W2R">I love you for a thousand times</string>
+    <string name="Q2W3R">I want to see you home tonight</string>
+    <!--Question 4-->
+    <string name="Q4W1C">Beautiful Trauma</string>
+    <string name="Q4W2C">Bad Blood</string>
+    <!--Question 5-->
+    <string name="Q5W1R">Don\'t let him in </string>
+    <string name="Q5W2R">Don\'t be his friend</string>
+    <string name="Q5W3R">Don\'t open the door</string>
+    <!--Question 7-->
+    <string name="Q7W1C">See You again</string>
+    <!--Question 8-->
+    <string name="Q8W1R">You don\'t at all</string>
+    <string name="Q8W2R">You don\'t like my love</string>
+    <string name="Q8W3R">You just want my love</string>
+    <!--Question 10-->
+    <string name="Q10W1R"> Britney Spears</string>
+    <string name="Q10W2R">Ariana Grande</string>
+    <string name="Q10W3R">Selena Gomez</string>
+
+
+
+</resources>
